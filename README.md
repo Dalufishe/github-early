@@ -14,9 +14,14 @@ Gitub Early 提供給您一種全新探索 Github 的方式，為每個 Github �
 
 ### 如何安裝 & 使用
 
-還沒寫...
+還沒上架呢 XD
 
 ### 給予支持
 
 若我的程式有幫助到你，請給我的倉庫一顆星星 (成為這個專案的 Early 吧, Haha)。
 您也可以請我喝杯咖啡 ([連結](https://www.buymeacoffee.com/dalufish))，鼓勵我繼續創作及維護應用程式。
+
+### 特別感謝
+
+特別感謝 [Yao](https://github.com/tomhsiao1260) 在最初給予許多工具上的想法及使用建議 😄，得以讓這個工具誕生。
+
