@@ -1,0 +1,40 @@
+{
+    "manifest_version": 3,
+    "name": "Github Early",
+    "version": "0.0.1",
+    "description": "Github early, get the earliest stargazers & watchers for a repo.",
+    "icons": {
+        "16": "./assets/icons/icon.png",
+        "48": "./assets/icons/icon.png",
+        "128": "./assets/icons/icon.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "./assets/icons/icon.png",
+            "48": "./assets/icons/icon.png",
+            "128": "./assets/icons/icon.png"
+        },
+        "default_title": "Github Early",
+        "default_popup": "./popup/popup.html"
+    },
+    "options_page": "./options/options.html",
+    "background": {
+        "service_worker": "./background/background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://github.com/*"
+            ],
+            "js": [
+                "./content/content.js",
+                "./utils/githubFetch.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "storage",
+        "unlimitedStorage",
+        "contextMenus"
+    ]
+}

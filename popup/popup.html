@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./popup.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="heading">
+        <img width="32" height="32" src="../assets/icons/icon.png" alt="" />
+        <h2>
+          <a href="https://github.com/Dalufishe/github-early" target="_blank"
+            >Github Early</a
+          >
+        </h2>
+      </div>
+      <div style="display: flex; gap: 20px">
+        <div>
+          <h3>Early Stargazers</h3>
+          <ul class="early-stargazers-list list"></ul>
+        </div>
+        <div>
+          <h3>Early Watchers</h3>
+          <ul class="early-watchers-list list"></ul>
+        </div>
+      </div>
+    </div>
+    <div class="bottom-section">
+      <span>© 2024 Dalufishe Free Software</span>
+      <a href="https://www.buymeacoffee.com/dalufish" target="_blank"
+        >Support Me</a
+      >
+    </div>
+  </body>
+  <script src="../utils/githubFetch.js"></script>
+  <script src="./pop.js"></script>
+</html>
