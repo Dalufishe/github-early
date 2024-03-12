@@ -4,7 +4,7 @@
 
 [English](.) / [繁體中文](./readme/README_ZH.md)
 
-Github Early showcases users who starred and watched a project in its earliest stages.
+Github Early showcases users who starred and watched a Github repo in its earliest stages.
 
 # Github Early
 
@@ -32,10 +32,12 @@ Github Early provides a fresh way to explore Github by displaying the earliest f
 
 3. Have Fun!
 
-### Show Your Support
+### Support
 
 If my program has been helpful to you, please give my repository a star (become an Early adopter of this project, Haha).
 You can also buy me a coffee ([link](https://www.buymeacoffee.com/dalufish)) to encourage me to continue creating and maintaining applications.
+
+<a href="https://www.buymeacoffee.com/Dalufish"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Dalufish&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ### Special Thanks
 
