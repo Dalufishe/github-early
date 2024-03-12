@@ -1,10 +1,14 @@
-# Github Early
+<div align="center">
+  <img width="80" src="./readme/images/icon.png"/>
+</div>
 
 [English](.) / [繁體中文](./readme/README_ZH.md)
 
-![](./readme/images/show.png)
-
 Github Early 展示一個專案最早期按星星及追蹤的使用者。
+
+# Github Early
+
+![](./readme/images/show.png)
 
 ### 這有什麼用？
 
